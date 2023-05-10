@@ -35,4 +35,4 @@ This is a Python script that allows you to perform a SSH bruteforce attack by tr
 [J.Rosales](https://github.com/ic3man31/ic3man31)
 
 ## License
-[LICENSE]
+[LICENSE](LICENSE)
